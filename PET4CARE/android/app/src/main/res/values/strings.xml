@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cuida-a-mi-mascota</string>
+    <string name="title_activity_main">cuida-a-mi-mascota</string>
+    <string name="package_name">com.cuidaamimascota.app</string>
+    <string name="custom_url_scheme">com.cuidaamimascota.app</string>
+</resources>
